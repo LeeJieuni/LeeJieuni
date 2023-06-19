@@ -67,7 +67,9 @@
 
 <br />
 <br />
-<p align="center">
+<p>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lgeun123">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=LeeJieuni&theme=gruvbox-duo&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeeJieuni&theme=rose-pine"/></a>
 </p>
+<!-- align="center" -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=LeeJieuni&theme=rose-pine)](https://git.io/streak-stats) -->
