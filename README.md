@@ -71,7 +71,7 @@
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lgeun123" width="400"> 
-  <img src="https://streak-stats.demolab.com?user=LeeJieuni&theme=rose-pine&date_format=%5BY.%5Dn.j&card_width=400"/>
+  <img src="https://streak-stats.demolab.com?user=LeeJieuni&theme=rose-pine&date_format=%5BY.%5Dn.j&card_width=400&border_radius=10"/>
 </p>
 
 
