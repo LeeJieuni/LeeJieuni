@@ -69,4 +69,5 @@
 <br />
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lgeun123">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=LeeJieuni&theme=gruvbox-duo&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 </p>
