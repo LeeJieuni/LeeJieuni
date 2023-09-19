@@ -9,7 +9,7 @@
   </a>
 </p>
 <p align="center">
-  Hi there 👋 I'm Ji Eun<br />
+  Hi there 👋 <br />
   ___
 </p>
 
