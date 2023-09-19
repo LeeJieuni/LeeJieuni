@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JIEUN:%20LEE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=backend%20developer&descAlignY=51&descAlign=70)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.notion.so/happyeuni/5c939110d965458cbd092edfa1aa72fe">
     <img src="https://img.shields.io/badge/PortFolio-CDF0EA?style=flat-square&logo=GitHub Sponsors&logoColor=black">
   </a>
   <a href="https://happyeuni.tistory.com/">
     <img src="https://img.shields.io/badge/Tech Blog-F6F5F5?style=flat-square&logo=Tistory&logoColor=black">
   </a>
-</p>
+</p> -->
 <p align="center">
   Hi there 👋 <br />
   ___
