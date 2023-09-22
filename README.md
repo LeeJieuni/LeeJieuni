@@ -16,7 +16,9 @@
 
 ### :books: Education & Career
 
+- KB Securities Company (2023.07 - 2023.08)
 - Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - 2022.12)
+
 
 
 
