@@ -1,4 +1,4 @@
-<!--
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JIEUN:%20LEE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=backend%20developer&descAlignY=51&descAlign=70)
 
  <p align="center">
@@ -8,7 +8,7 @@
   <a href="https://happyeuni.tistory.com/">
     <img src="https://img.shields.io/badge/Tech Blog-F6F5F5?style=flat-square&logo=Tistory&logoColor=black">
   </a>
-</p> -->
+</p> 
 <p align="center">
   Hi there 👋 <br />
   ___
